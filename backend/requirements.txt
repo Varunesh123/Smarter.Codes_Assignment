@@ -1,0 +1,9 @@
+fastapi==0.104.1
+uvicorn==0.23.2
+requests==2.31.0
+beautifulsoup4==4.12.2
+sentence-transformers==2.2.2
+weaviate-client==3.24.1
+python-dotenv==1.0.0
+numpy==1.26.1
+pydantic==2.4.2
